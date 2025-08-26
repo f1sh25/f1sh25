@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ilpo
+**Second-Year Electrical Engineering Student @ Aalto university** | Aspiring **Microelectronic Circuit Designer**  
+Passionate about **Hardware Acceleration**, **Machine learning**, and **Embedded Systems**  
 
-<!--
-**f1sh25/f1sh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Programming & Tools
+- **Python** — Proficient (automation, scripting, LLM infra, cocotb)  
+- **Rust** — Intermediate (systems, networking; built P2P CLI chat)  
+- **C** — Basic (low-level fundamentals)  
+- **SQL / SQLite** — Lightweight data storage for apps  
+
+### Networking & Security
+- Built a **Cyber Range** with:
+  - **ELK Stack** for centralized monitoring  
+  - **Suricata** IDS/IPS for intrusion detection & response  
+- **Threat Modeling & Red Teaming** — Developed exercise scenarios based on OSINT  
+- **CTF / Pentesting** — TryHackMe: Completed *Jr. Pentester* & *Offensive Pentesting* paths  
+
+### AI & LLM Infrastructure
+- **LangChain, LangSmith, LangFuse** — Pipeline orchestration & observability  
+- **Custom OSINT + Threat Simulation Agent**:
+  - Gathers **publicly available company data**
+  - Generates **threat scenarios**
+  - Creates **exercise scripts** for security teams  
+
+### Hardware & FPGA (Learning)
+- Basics of **Digital Logic** — Combinational & sequential circuits  
+- **VHDL** — RTL design for FPGA  
+- **cocotb** — Python-based testbenches for verification  
+
