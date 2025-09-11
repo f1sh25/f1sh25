@@ -1,6 +1,6 @@
 # Hi, I'm Ilpo
-**Second-Year Electrical Engineering Student @ Aalto university** | Aspiring **Microelectronic Circuit Designer**  
-Passionate about **Hardware Acceleration**, **Machine learning**, and **Embedded Systems**  
+Second-Year Electrical Engineering Student @ Aalto university | Aspiring Microelectronic Circuit Designer
+Passionate about **Hardware Acceleration**, **Machine learning**, and **Embedded Systems**
 
 
 ## Technical Skills
